@@ -24,7 +24,8 @@
             android:text=""
             android:textAlignment="textEnd"
             android:textColor="@color/white"
-            android:textSize="30sp" />
+            android:textSize="30sp"
+            android:textStyle="bold" />
 
         <TextView
             android:id="@+id/resultTV"
@@ -37,7 +38,8 @@
             android:text=""
             android:textAlignment="textEnd"
             android:textColor="@color/white"
-            android:textSize="45sp" />
+            android:textSize="45sp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 
